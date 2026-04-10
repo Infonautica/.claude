@@ -1,0 +1,42 @@
+# Credentials and secrets
+.credentials.json
+
+# Conversation and session data
+history.jsonl
+session-env/
+sessions/
+
+# Ephemeral caches
+cache/
+debug/
+file-history/
+paste-cache/
+shell-snapshots/
+backups/
+
+# Session-scoped work
+plans/
+tasks/
+todos/
+
+# Per-project data (keyed to absolute machine paths)
+projects/
+
+# Plugin caches and runtime data (reinstallable via `claude plugin install`)
+plugins/cache/
+plugins/data/
+plugins/marketplaces/
+plugins/repos/
+plugins/blocklist.json
+plugins/known_marketplaces.json
+plugins/install-counts-cache.json
+
+# Runtime state and telemetry
+mcp-needs-auth-cache.json
+policy-limits.json
+stats-cache.json
+statsig/
+telemetry/
+
+# Skills (managed in a separate repo)
+skills/

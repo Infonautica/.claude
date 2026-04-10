@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "plugins": {
+    "typescript-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/claude-plugins-official/typescript-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-21T14:19:49.649Z",
+        "lastUpdated": "2026-01-21T14:19:49.649Z",
+        "gitCommitSha": "e30768372b4150ca1bc0839d93283e8edc30d60d"
+      }
+    ],
+    "rust-analyzer-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/claude-plugins-official/rust-analyzer-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-26T20:54:07.000Z",
+        "lastUpdated": "2026-01-26T20:54:07.000Z",
+        "gitCommitSha": "e30768372b4150ca1bc0839d93283e8edc30d60d"
+      }
+    ],
+    "workmux-status@workmux": [
+      {
+        "scope": "user",
+        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/workmux/workmux-status/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-26T20:55:31.572Z",
+        "lastUpdated": "2026-01-26T20:55:31.572Z",
+        "gitCommitSha": "a1962dde6247dd618194618b80c4599f2204c100"
+      }
+    ],
+    "figma@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/claude-plugins-official/figma/2.1.3",
+        "version": "2.1.3",
+        "installedAt": "2026-02-20T12:19:47.594Z",
+        "lastUpdated": "2026-04-08T11:05:26.114Z",
+        "gitCommitSha": "83b11c0bc199a3c6ee87df0a0bd460139fa72cdc"
+      }
+    ]
+  }
+}

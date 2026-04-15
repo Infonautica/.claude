@@ -31,6 +31,9 @@ plugins/blocklist.json
 plugins/known_marketplaces.json
 plugins/install-counts-cache.json
 
+# Usage data
+usage-data/
+
 # Runtime state and telemetry
 mcp-needs-auth-cache.json
 policy-limits.json

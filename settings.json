@@ -43,7 +43,7 @@
       "Bash(git show:*)",
       "Bash(git branch:*)",
       "Bash(git stash list:*)",
-      "Bash(just install-dev:*)",
+      "Bash(just:*)",
       "Bash(brew install:*)",
       "Bash(npx vitest:*)",
       "mcp__plugin_figma_figma__get_design_context",
@@ -96,5 +96,14 @@
     "workmux-status@workmux": true,
     "rust-analyzer-lsp@claude-plugins-official": true,
     "figma@claude-plugins-official": true
+  },
+  "sandbox": {
+    "enabled": false,
+    "autoAllowBashIfSandboxed": true
+  },
+  "voiceEnabled": true,
+  "voice": {
+    "enabled": true,
+    "mode": "hold"
   }
 }

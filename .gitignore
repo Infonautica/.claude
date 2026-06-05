@@ -35,6 +35,9 @@ plugins/install-counts-cache.json
 usage-data/
 
 # Runtime state and telemetry
+.last-cleanup
+.last-update-result.json
+remote-settings.json
 mcp-needs-auth-cache.json
 policy-limits.json
 stats-cache.json

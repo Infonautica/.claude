@@ -15,8 +15,6 @@
 
 ## Tools Available
 
-- `rg` (ripgrep) is installed — use it instead of grep when running shell commands.
-- `fzf` is installed and available for interactive filtering.
 - `just` is used as a task runner in my projects — check for a `justfile` before suggesting manual commands.
 
 ## Shell & Git

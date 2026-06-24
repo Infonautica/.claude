@@ -30,6 +30,8 @@ plugins/repos/
 plugins/blocklist.json
 plugins/known_marketplaces.json
 plugins/install-counts-cache.json
+plugins/plugin-catalog-cache.json
+plugins/.last_inuse_sweep
 
 # Usage data
 usage-data/

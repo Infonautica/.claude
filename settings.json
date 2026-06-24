@@ -94,16 +94,16 @@
   "enabledPlugins": {
     "typescript-lsp@claude-plugins-official": true,
     "workmux-status@workmux": true,
-    "rust-analyzer-lsp@claude-plugins-official": true,
+    "rust-analyzer-lsp@claude-plugins-official": false,
     "figma@claude-plugins-official": true
   },
   "sandbox": {
     "enabled": false,
     "autoAllowBashIfSandboxed": true
   },
-  "voiceEnabled": true,
   "voice": {
     "enabled": true,
     "mode": "hold"
-  }
+  },
+  "voiceEnabled": true
 }

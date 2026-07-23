@@ -14,10 +14,6 @@
 - Prefer self-documenting code over comments.
 - Do not add comments to code unless the logic is genuinely non-obvious.
 
-## Tools Available
-
-- `just` is used as a task runner in my projects — check for a `justfile` before suggesting manual commands.
-
 ## Shell & Git
 
 - Do not `cd` before running git commands — git works from any subdirectory within a repo.
@@ -26,4 +22,4 @@
 
 - Spawn subagents freely to explore code when it would be faster.
 - Use the connected TypeScript LSP when working with TypeScript.
-- Use the connected Rust Analyzer LSP when working with Rust.
+- Prefer simple CLI commands to minimize number of times tool's approval is needed.

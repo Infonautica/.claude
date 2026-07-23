@@ -34,11 +34,22 @@
     "figma@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/claude-plugins-official/figma/2.2.60",
-        "version": "2.2.60",
+        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/claude-plugins-official/figma/2.2.81",
+        "version": "2.2.81",
         "installedAt": "2026-02-20T12:19:47.594Z",
-        "lastUpdated": "2026-06-23T06:21:15.547Z",
+        "lastUpdated": "2026-07-14T11:48:44.314Z",
         "gitCommitSha": "83b11c0bc199a3c6ee87df0a0bd460139fa72cdc"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "/Users/leoniddanilov/Desktop/Projects/portals/portals-ui__worktrees/admin-ui-luma-proxy",
+        "installPath": "/Users/leoniddanilov/.claude/plugins/cache/claude-plugins-official/context7/b36a2952d139",
+        "version": "b36a2952d139",
+        "installedAt": "2026-07-06T14:32:54.476Z",
+        "lastUpdated": "2026-07-06T14:32:54.476Z",
+        "gitCommitSha": "b36a2952d139afb3d8a9d38cb38fd1f1bd55e394"
       }
     ]
   }

@@ -37,6 +37,10 @@ plugins/.last_inuse_sweep
 usage-data/
 
 # Runtime state and telemetry
+daemon.log
+daemon/
+jobs/
+image-cache/
 .last-cleanup
 .last-update-result.json
 remote-settings.json
